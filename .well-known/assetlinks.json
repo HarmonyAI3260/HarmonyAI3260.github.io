@@ -1,1 +1,4 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {"namespace": "android_app", "package_name": "io.github.harmonyai3260.sepaterminal", "sha256_cert_fingerprints": ["7C:1A:A3:94:ED:68:6C:C7:06:8C:A7:40:0E:1A:8D:BE:50:C4:53:05:01:74:7D:97:65:F1:44:65:5D:1B:CC:C6"]}
+}]
