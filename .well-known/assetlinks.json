@@ -1,4 +1,4 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {"namespace": "android_app", "package_name": "io.github.harmonyai3260.sepaterminal", "sha256_cert_fingerprints": ["7C:1A:A3:94:ED:68:6C:C7:06:8C:A7:40:0E:1A:8D:BE:50:C4:53:05:01:74:7D:97:65:F1:44:65:5D:1B:CC:C6"]}
+  "target": {"namespace": "android_app", "package_name": "io.github.harmonyai3260.sepaterminal", "sha256_cert_fingerprints": ["E7:E2:1A:89:AD:50:13:00:D8:9A:3E:30:EA:3D:C0:EC:47:11:CB:A2:2C:A3:DA:E0:4A:7B:96:AF:39:77:F2:AE","7C:1A:A3:94:ED:68:6C:C7:06:8C:A7:40:0E:1A:8D:BE:50:C4:53:05:01:74:7D:97:65:F1:44:65:5D:1B:CC:C6","F9:4E:05:65:D6:42:0B:19:0F:E4:B2:B0:92:3B:BF:C6:B4:E5:27:C5:83:CF:4D:15:0F:BF:94:C7:4E:88:92:3D"]}
 }]
